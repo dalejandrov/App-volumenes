@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Volumenes</string>
+    <string name="n1">Altura</string>
+    <string name="n2">Ancho</string>
+    <string name="n3">Largo</string>
+    <string name="btn1">Calcular</string>
+    <string name="tv4">Resultado</string>
+
+</resources>
